@@ -5,7 +5,7 @@ This github repository is to provide teaching materials for LIFE4138.
 To access the materials and work through them please:
 
 ```console
-git clone https://www.github.com/looselab/LIFE4138
+git clone https://www.github.com/BioinformaticsMSc/LIFE4138_2526
 cd LIFE4138
 conda env create -f lectures.yml
 conda activate lectures
