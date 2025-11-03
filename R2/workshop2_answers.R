@@ -7,7 +7,7 @@
 #                                                                             #
 #  Description:                                                               #
 #  This script contains worked solutions to the "Have a Go" questions         #
-#  from the first R workshop in LIFE4138.                                     #
+#  from the second R workshop in LIFE4138.                                    #
 #                                                                             #
 ###############################################################################
 
