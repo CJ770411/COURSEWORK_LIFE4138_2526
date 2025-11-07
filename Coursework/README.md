@@ -4,7 +4,7 @@ Instructions and resources for the coursework component of the LIFE4138 module.
 
 ## Part 1
 
-10 questions to be answered in both R and Python - these questions provided as jupyter notebooks: R_Coursework_Questions.ipynb and Python_Coursework_Questions.ipynb
+10 questions to be answered in both R and Python - these questions provided as jupyter notebooks: R_Coursework_Questions.ipynb and Python_Coursework_Questions.ipynb.  You must fill out and run the notebooks in the cells provided and save your completed notebooks.
 
 
 ## Part 2
