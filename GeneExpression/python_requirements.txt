@@ -1,0 +1,7 @@
+# modules required to run 'gene_expression_cjanschke.py'
+
+pandas
+plotly.express
+numpy
+matplotlib.pylot
+seaborn

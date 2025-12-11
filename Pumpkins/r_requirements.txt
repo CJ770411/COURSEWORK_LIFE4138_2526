@@ -1,0 +1,7 @@
+# packages required to run 'pumpkins_cjanschke.R'
+
+tidyverse
+viridis
+plotly
+svglite
+ggpubr
