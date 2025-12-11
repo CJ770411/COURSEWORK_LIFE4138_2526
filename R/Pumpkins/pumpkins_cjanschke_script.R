@@ -55,7 +55,7 @@ read_file.csv = function(path) {
 
 #1 
 # use read_file.csv function to read in the .csv file
-pumpkins <- read_file.csv("/Users/christopherjanschke/GIT/COURSEWORK_LIFE4138_2526/Pumpkins/pumpkins_datasets/pumpkins_09.csv") # input path to .csv file within the quote marks
+pumpkins <- read_file.csv("https://raw.githubusercontent.com/CJ770411/COURSEWORK_LIFE4138_2526/refs/heads/LIFE4138_2526/Pumpkins/pumpkins_datasets/pumpkins_09.csv") # input path to .csv file within the quote marks
 
 
 

@@ -85,10 +85,10 @@ def gene_significance(row):
         return 'Non significant'
 
 # read in first .tsv file (deseq2_D = A_vs_D)
-deseq2_D = read_file_tsv("~/GIT/COURSEWORK_LIFE4138_2526/GeneExpression/Datasets/set_9/A_vs_D.deseq2.results.tsv") # input path to the first .tsv file within the quote marks
+deseq2_D = read_file_tsv("https://raw.githubusercontent.com/CJ770411/COURSEWORK_LIFE4138_2526/refs/heads/LIFE4138_2526/GeneExpression/Datasets/set_9/A_vs_D.deseq2.results.tsv") # input path to the first .tsv file within the quote marks
 
 # read in second .tsv file (deseq2_F = A_vs_F)
-deseq2_F = read_file_tsv("~/GIT/COURSEWORK_LIFE4138_2526/GeneExpression/Datasets/set_9/A_vs_F.deseq2.results.tsv") # input path to the second .tsv file within the quote marks
+deseq2_F = read_file_tsv("https://raw.githubusercontent.com/CJ770411/COURSEWORK_LIFE4138_2526/refs/heads/LIFE4138_2526/GeneExpression/Datasets/set_9/A_vs_D.deseq2.results.tsv") # input path to the second .tsv file within the quote marks
 
 
 ##Summary Statistics
